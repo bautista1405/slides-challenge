@@ -33,7 +33,7 @@ const HomePage: React.FC = () => {
         <div className="p-12 flex align-center">
           <div className="xs:m-auto xl:max-w-xl xs:max-w-[240px] xs:max-h-[300px] md:max-h-[500px] md:max-w-7xl">
             <div className="text-xs xs:text-center md:text-left uppercase tracking-widest text-gray-900">About — Personal</div>
-            <h1 className="mt-2 text-2xl xs:text-xl md:text-4xl text-gray-900">¡Hello! <b>I'm Angela Smith</b></h1>
+            <h1 className="mt-2 text-2xl xs:text-xl md:text-4xl text-gray-900">¡Hello! <b>I&apos;m Angela Smith</b></h1>
             <p className={`mt-4 text-gray-700 ${isSmall ? 'truncate' : ''}`}>
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
               dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
